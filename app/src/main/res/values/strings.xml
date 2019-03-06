@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora_V2</string>
+    <string name="numero1">Numero1</string>
+    <string name="numero2">Numero2</string>
+    <string name="suma">suma</string>
+    <string name="resta">resta</string>
+    <string name="division">division</string>
+    <string name="modulo">modulo</string>
+    <string name="resultado">Resultado</string>
+    <string name="_0_0">0.0</string>
+    <string name="multiplicacion">multiplicacion</string>
+</resources>
